@@ -8,6 +8,8 @@ This guide provides step-by-step instructions to build, package, and deploy the 
 
 
 
+
+
 ### 🎓 Learning Path
 1. **Build** your Java application with Maven
 2. **Manual Deployment** - Copy WAR file directly to Tomcat (understand the basics)
